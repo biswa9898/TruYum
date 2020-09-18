@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\TruYum.csproj": {}
+    "C:\\Users\\HP\\Desktop\\TruYumWebpcheck-master\\TruYum.csproj": {}
   },
   "projects": {
-    "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\TruYum.csproj": {
+    "C:\\Users\\HP\\Desktop\\TruYumWebpcheck-master\\TruYum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\TruYum.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\TruYumWebpcheck-master\\TruYum.csproj",
         "projectName": "TruYum",
-        "projectPath": "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\TruYum.csproj",
-        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-        "outputPath": "G:\\visual studio\\CTS PP 01\\TruYum PracticeCheck\\TruYumWeb\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\TruYumWebpcheck-master\\TruYum.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\TruYumWebpcheck-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,6 +69,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
